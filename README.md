@@ -1,5 +1,6 @@
- 리액트로 만들어 본 트위터와 유사한 기본 SNS 웹 페이지 입니다. 서버는 파이어베이스 기반입니다.
- 
+ React와 Redux/axios 로 만들어 본 트위터와 유사한 기본 SNS 웹 페이지 입니다. 서버는 파이어베이스 기반입니다.
+ 구현기능: 좋아요 버튼 및 실시간 반영, 댓글 남기기, 포스팅 등록, 포스팅 삭제, 알림(notifications), 로그인, 회원가입, 로그인 했을 시 NavBar변경, 로그인 했을 시 프로필 이미지 및 정보 변경/  업데이트 기능
+
 ![WebSNS - 프로필 1 - Microsoft_ Edge 2021-09-28 오전 12_14_05](https://user-images.githubusercontent.com/79817968/134943157-f7ab0d1f-7daf-49a6-b795-c08fdff04d27.png)
 ![WebSNS - 프로필 1 - Microsoft_ Edge 2021-09-28 오전 12_14_14](https://user-images.githubusercontent.com/79817968/134943283-81804ba7-8dee-4986-873c-ccc7d1e82d95.png)
 ![WebSNS - 프로필 1 - Microsoft_ Edge 2021-09-28 오전 12_14_42](https://user-images.githubusercontent.com/79817968/134943627-5cb304c4-0615-4ed1-ba7e-3a58b9e44c78.png)
